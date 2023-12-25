@@ -1,0 +1,4 @@
+*.logs
+!error.logs
+/test2
+t?sk.txt
